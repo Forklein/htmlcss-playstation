@@ -16,3 +16,7 @@ header .top-bar{
     height: 40px;
     line-height: 40px;
 }
+
+.jumbotron{
+    padding-top: 120px;
+}
