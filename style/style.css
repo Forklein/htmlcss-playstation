@@ -11,6 +11,10 @@
     background-color: #161c3b;
 }
 
+.ms-bg-footer{
+    background-color: #00439c;
+}
+
 .ms-text-black{
     color: #000;
 }
@@ -35,4 +39,10 @@ header .top-bar{
 
 .jumbotron{
     padding-top: 100px;
+}
+
+/* !Start Footer */
+
+footer p{
+    display: inline-block;
 }
