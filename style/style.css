@@ -11,6 +11,8 @@
     border-radius: 30px;
 }
 
+/* !Start Header */
+
 header{
     position: fixed;
     width: 100%;
@@ -20,6 +22,8 @@ header .top-bar{
     height: 40px;
     line-height: 40px;
 }
+
+/* !Start Main */
 
 .jumbotron{
     padding-top: 100px;
