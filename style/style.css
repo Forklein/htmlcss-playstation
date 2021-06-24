@@ -7,6 +7,10 @@
     color: #000;
 }
 
+.ms-border-image{
+    border-radius: 30px;
+}
+
 header{
     position: fixed;
     width: 100%;
@@ -18,5 +22,5 @@ header .top-bar{
 }
 
 .jumbotron{
-    padding-top: 120px;
+    padding-top: 100px;
 }
