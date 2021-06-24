@@ -29,6 +29,10 @@
 
 /* !Start Header */
 
+header{
+    z-index: 1;
+}
+
 header .top-bar{
     height: 40px;
     line-height: 40px;
