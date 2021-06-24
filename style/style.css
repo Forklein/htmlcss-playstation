@@ -1,0 +1,18 @@
+/* *My style Utility* */
+.ms-bg-black{
+    background-color: #000;
+}
+
+.ms-text-black{
+    color: #000;
+}
+
+header{
+    position: fixed;
+    width: 100%;
+}
+
+header .top-bar{
+    height: 40px;
+    line-height: 40px;
+}
