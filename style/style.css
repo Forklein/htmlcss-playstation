@@ -38,6 +38,7 @@ header .top-bar{
     line-height: 40px;
 }
 
+
 /* !Start Main */
 
 .jumbotron{
@@ -58,4 +59,15 @@ header .top-bar{
     background-size: cover;
     background-position: center;
     opacity: 0.9;
+}
+
+/*? Hover Effect */
+
+#gallery-1 .row > div[class^="col-"]{
+    transition: 1s;
+}
+
+#gallery-1 .row > div[class^="col-"]:hover{
+    transform: translateY(-10%);
+    cursor: pointer;
 }
