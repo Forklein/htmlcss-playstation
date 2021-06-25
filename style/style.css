@@ -74,12 +74,12 @@ header .top-bar{
 
 /*? Hover Effect Gallery-2 */
 
-#gallery-2 .row > div:nth-child(n + 2){
+#gallery-2 .row.text-center > div:nth-child(n + 2){
     transition: 1s;
     opacity: 0.5;
 }
 
-#gallery-2 .row > div:nth-child(n + 2):hover{
+#gallery-2 .row.text-center > div:nth-child(n + 2):hover{
     opacity: 1;
     cursor: pointer;
 }
