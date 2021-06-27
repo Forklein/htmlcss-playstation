@@ -83,3 +83,31 @@ header .top-bar{
     opacity: 1;
     cursor: pointer;
 }
+
+/*? Hover btn-effect */
+
+.ms-effect{
+   transition: 0.2s;
+}
+
+.ms-effect-1:hover{
+    box-shadow: 0 0 1px 3px #fff inset;
+    border: 2px solid #5b626c;
+    opacity: 0.8;
+}
+
+.ms-effect-2:hover{
+    box-shadow: 0 0 1px 3px #000 inset;
+    border: 1px solid #cd3d0f;
+}
+
+.ms-effect-3:hover{
+    box-shadow: 0 0 1px 3px #fff inset;
+    border: 2px solid #0d6efd;
+}
+
+.ms-effect-4:hover{
+    box-shadow: 0 0 1px 3px #000 inset;
+    border: 1px solid #fff;
+    color: inherit;
+}
